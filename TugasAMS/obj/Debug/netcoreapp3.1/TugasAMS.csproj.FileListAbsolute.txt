@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\TugasAMS\TugasAMS\bin\Debug\netcoreapp3.1\TugasAMS.exe
+C:\Users\user\source\repos\TugasAMS\TugasAMS\bin\Debug\netcoreapp3.1\TugasAMS.deps.json
+C:\Users\user\source\repos\TugasAMS\TugasAMS\bin\Debug\netcoreapp3.1\TugasAMS.runtimeconfig.json
+C:\Users\user\source\repos\TugasAMS\TugasAMS\bin\Debug\netcoreapp3.1\TugasAMS.runtimeconfig.dev.json
+C:\Users\user\source\repos\TugasAMS\TugasAMS\bin\Debug\netcoreapp3.1\TugasAMS.dll
+C:\Users\user\source\repos\TugasAMS\TugasAMS\bin\Debug\netcoreapp3.1\TugasAMS.pdb
+C:\Users\user\source\repos\TugasAMS\TugasAMS\obj\Debug\netcoreapp3.1\TugasAMS.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TugasAMS\TugasAMS\obj\Debug\netcoreapp3.1\TugasAMS.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TugasAMS\TugasAMS\obj\Debug\netcoreapp3.1\TugasAMS.AssemblyInfo.cs
+C:\Users\user\source\repos\TugasAMS\TugasAMS\obj\Debug\netcoreapp3.1\TugasAMS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TugasAMS\TugasAMS\obj\Debug\netcoreapp3.1\TugasAMS.dll
+C:\Users\user\source\repos\TugasAMS\TugasAMS\obj\Debug\netcoreapp3.1\TugasAMS.pdb
+C:\Users\user\source\repos\TugasAMS\TugasAMS\obj\Debug\netcoreapp3.1\TugasAMS.genruntimeconfig.cache
